@@ -1,9 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mayur Gk</h1>
 
 <p align="center">
-  <i>A passionate full-stack developer and UI enthusiast</i><br/>
-  Currently building 🔐 <b>SecureVault</b> – a modern JavaFX password manager.<br/>
-  I love converting ideas into secure, aesthetic apps 🌗.
+   💻 Full-Stack Developer • 💡 Idea Pitcher<br/>
+  Passionate about building secure and meaningful applications
 </p>
 
 ---
