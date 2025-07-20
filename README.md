@@ -30,7 +30,7 @@
 | Project | Description | Stack |
 |--------|-------------|--------|
 | 🔐 [SecureVault](https://github.com/Mayur29042004/SecureVault-Java) | JavaFX password manager with encryption, undo-delete, dark/light mode | Java, JavaFX |
-| 🛡 Raksha Mitra (WIP) | Emergency app for real-time location, fraud report, and safety alerts | Java, Firebase |
+| 🛡 [Raksha Mitra](https://github.com/Mayur29042004/rakshamitra) | Emergency app for real-time location, fraud report, and safety alerts | Java, Firebase |
 
 ---
 
